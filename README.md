@@ -1,18 +1,88 @@
+# Olá, eu sou a Suellen Sagas! 👋💻
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@susu_sagas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suellen-sagas/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suellensagas.2005@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=suellen-sagas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=suellen-sagas&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=suellen-sagas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+💻 Desenvolvedora de Software  
+🎓 Técnica em Desenvolvimento de Sistemas  
+📚 Graduanda em Análise e Desenvolvimento de Sistemas  
 
 ---
-[![](https://komarev.com/ghpvc/?username=suellen-sagas&icon=2&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👩‍💻 Sobre mim
+
+Tenho 20 anos e sou apaixonada por tecnologia e desenvolvimento de software.
+
+Atualmente, estou aprimorando meus conhecimentos através de projetos acadêmicos e pessoais, colocando em prática conceitos de programação, banco de dados e desenvolvimento web.
+
+Tenho interesse em desenvolvimento de sistemas e estou sempre buscando aprender novas tecnologias, aprimorar minhas habilidades e adquirir experiência na área.
+
+Meu objetivo é crescer profissionalmente como desenvolvedora, participar de novos desafios e contribuir com projetos que me proporcionem aprendizado e evolução.
+
+---
+
+## 🌐 Minhas Redes Sociais
+
+<div align="left">
+
+<a href="https://www.instagram.com/susu_sagas" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/susu-sagas" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
+
+</div>
+
+---
+
+## 📚 Atualmente estudando
+
+- Programação
+- Desenvolvimento Web
+- Banco de Dados
+- APIs
+- Git e GitHub
+- Desenvolvimento de Sistemas
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🎯 Objetivo profissional
+
+Busco uma oportunidade de **estágio ou posição júnior na área de Desenvolvimento de Software**, onde eu possa aplicar meus conhecimentos, adquirir experiência, aprender com outros profissionais e evoluir como desenvolvedora.
+
+---
+
+<div align="center">
+
+### 💜 Sempre aprendendo, desenvolvendo e transformando ideias em código.
+
+</div>
