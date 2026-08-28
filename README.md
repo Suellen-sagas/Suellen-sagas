@@ -82,32 +82,6 @@ Estou sempre buscando aprender novas tecnologias, desenvolver minhas habilidades
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img 
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-/>
-
-<img 
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 🎯 Objetivo profissional
 
 Busco oportunidades na área de **Desenvolvimento de Software** que me permitam colocar meus conhecimentos em prática, adquirir novas experiências e continuar evoluindo profissionalmente.
@@ -140,6 +114,6 @@ Tenho interesse em ambientes onde eu possa aprender, colaborar com outras pessoa
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&color=blueviolet&style=for-the-badge&label=VISITAS+NO+PERFIL)
+![Profile Views](https://komarev.com/ghpvc/?username=suellen-sagas_GITHUB&color=blueviolet&style=for-the-badge&label=VISITAS+NO+PERFIL)
 
 </div>
