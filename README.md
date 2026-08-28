@@ -76,7 +76,7 @@ Estou sempre buscando aprender novas tecnologias, desenvolver minhas habilidades
 
 `Desenvolvimento de Software` • `Desenvolvimento Web` • `Banco de Dados`
 
-`APIs` • `Git & GitHub` • ´Cybersegurança´ • `Boas práticas de programação`
+`APIs` • `Git & GitHub` • `CyberSecurity` • `Boas práticas de programação`
 
 </div>
 
