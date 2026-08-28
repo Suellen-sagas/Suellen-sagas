@@ -1,14 +1,8 @@
 <div align="center">
 
-# 👩‍💻 Olá, eu sou a Suellen Sagas!
+# 👩‍💻 Olá, eu sou Suellen Sagas!
 
 ### Desenvolvedora de Software | Técnica em Desenvolvimento de Sistemas
-
- <img 
-  src="https://readme-typing-svg.herokuapp.com/?font=Poppins&color=8A2BE2&size=22&center=true&vCenter=true&width=600&lines=Desenvolvedora+de+Software;Estudante+de+ADS;Apaixonada+por+Tecnologia;Sempre+aprendendo+e+evoluindo+🚀"
-/>
-
-<br>
 
 🎓 **Técnica em Desenvolvimento de Sistemas**  
 📚 Graduanda em **Análise e Desenvolvimento de Sistemas**  
