@@ -106,8 +106,6 @@ Tenho interesse em ambientes onde eu possa aprender, colaborar com outras pessoa
 
 💻 Tecnologia • 🚀 Evolução • 📚 Aprendizado
 
-<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=suellen-sagas_GITHUB&color=blueviolet&style=for-the-badge&label=VISITAS+NO+PERFIL)
 
 </div>
