@@ -4,8 +4,8 @@
 
 ### Desenvolvedora de Software | Técnica em Desenvolvimento de Sistemas
 
-<img 
-  src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=22&center=true&vCenter=true&width=600&lines=Desenvolvedora+de+Software;Estudante+de+ADS;Apaixonada+por+Tecnologia;Sempre+aprendendo+e+evoluindo+🚀" 
+ <img 
+  src="https://readme-typing-svg.herokuapp.com/?font=Poppins&color=8A2BE2&size=22&center=true&vCenter=true&width=600&lines=Desenvolvedora+de+Software;Estudante+de+ADS;Apaixonada+por+Tecnologia;Sempre+aprendendo+e+evoluindo+🚀"
 />
 
 <br>
@@ -76,7 +76,7 @@ Estou sempre buscando aprender novas tecnologias, desenvolver minhas habilidades
 
 `Desenvolvimento de Software` • `Desenvolvimento Web` • `Banco de Dados`
 
-`APIs` • `Git & GitHub` • `Boas práticas de programação`
+`APIs` • `Git & GitHub` • ´Cybersegurança´ • `Boas práticas de programação`
 
 </div>
 
@@ -102,9 +102,7 @@ Estou sempre buscando aprender novas tecnologias, desenvolver minhas habilidades
 
 <div align="center">
 
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true"
-/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -122,11 +120,11 @@ Tenho interesse em ambientes onde eu possa aprender, colaborar com outras pessoa
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/susu-sagas" target="_blank">
+<a href="https://www.linkedin.com/in/suellen-sagas/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Suellen%20Sagas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://www.instagram.com/susu_sagas" target="_blank">
+<a href="https://www.instagram.com/susu_sagas/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-@susu__sagas-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
